@@ -1,4 +1,3 @@
-# Control de un robot Go2 en simulador
 
 # Control de un robot Go2 en simulador
 
