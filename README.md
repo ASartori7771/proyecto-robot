@@ -28,12 +28,6 @@ Después de la rutina básica hace tres ejercicios extra:
 
 Después de cada movimiento imprime la posición (`x`, `y`), así que leyendo solo la consola se puede reconstruir todo lo que hizo el programa.
 
-## Capturas
-
-![Salida de la consola](capturas/consola.png)
-
-![Robot en el simulador](capturas/simulador.png)
-
 ## Cómo se calculan los movimientos
 
 Las órdenes del robot reciben velocidad y tiempo, así que hay que calcular el tiempo necesario:
